@@ -78,6 +78,7 @@ int main()
  vector<Vector> input = {
      {1.0, 1.0, 0.0},
      {1.0, 0.0, 1.0},
+     {0.0, 1.0, 1.0},
      {0.0, 1.0, 1.0}};
 
  cout << "Original Vectors:\n";
